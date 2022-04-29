@@ -14,6 +14,8 @@ I’m currently learning Javascript
 <img align="center" alt="BNO-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 <img align="center" alt="BNO-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="BNO-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/100497619/165899823-b37e1547-3f1d-434b-aefb-7db061510df4.png">
+
   
  ##
   
@@ -24,3 +26,4 @@ I’m currently learning Javascript
 
   ##
   
+
